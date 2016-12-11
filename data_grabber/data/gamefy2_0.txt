@@ -1,0 +1,1742 @@
+
+    <div class="course__page">
+      <div id="ember1357" class="ember-view discussions-list"><h2 class="discussions__header">
+    Комментарии
+  <label class="s-select">
+    <select id="ember1365" class="s-select__select ember-view ember-select s-select__select"><!----><option id="ember1370" value="default" class="ember-view">Новые обсуждения</option><option id="ember1372" value="liked" class="ember-view">Самые популярные</option><option id="ember1374" value="active" class="ember-view">Самые обсуждаемые</option><option id="ember1376" value="recent" class="ember-view">Свежие обновления</option>
+</select>
+    <span class="s-select__arrow"></span>
+  </label>
+</h2>
+
+<!---->
+<div class="discussions__list">
+<!---->
+        <div id="ember4630" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4639" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4640" href="/users/17274245" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/d17dc29a457f872296fc5149ff4502b8?d=https%3A//stepik.org/users/17274245/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4641">Михаил Алферов</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T13:16:24" title="воскресенье, 11 декабря 2016 г., 13:16 (UTC+03:00)">18 минут назад</time>
+
+<!---->
+<a id="ember4669" href="/lesson/Построение-игрофицированной-системы-31951/step/14?discussion=309226&amp;unit=12051" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4678" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4679" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4688" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4689">
+  <span id="ember4690" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4699" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4700" class="ember-view">
+<div id="ember4701" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4702" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4703" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4714" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Очень хороший тест, &nbsp;надо просто не спешить с ответом и быть повнимательнее, я вот поспешил и только со второй попытки :(</p><p>Коллеги, не спешите с ответом, просто нужно перед ответом еще раз задуматься над изученным &nbsp;материалом и все будет ок:)&nbsp;</p><p><br></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4715">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4724" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5249" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5258" class="ember-view quiz-show step-view"><div id="ember5267" class="ember-view quiz-layout-head"><div class="step-wrapper">
+  <div class="step-inner">
+    <div id="ember5276" class="ember-view step-text-wrapper"><p>&nbsp;
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/16a7c7ad-858d-4b47-8ed2-c52a9bae5186/">
+
+Распределите примеры из разных игрофицированных систем таким образом, чтобы они шли в порядке от первого шага (<b>1-О</b>) к пятому (<b>5-О</b>). Первый шаг должен находиться сверху, второй под ним и т.д. На каждый шаг приходится по одному варианту. <br>Шестой шаг (если он сделан правильно) практически неизбежно накладывается на предыдущие шаги и его довольно сложно описать отдельно. Поэтому мы его не стали включать в это задание. <br></p><!----><!----></div>
+  </div>
+</div>
+
+<strong class="quiz-layout-head__print-notify print-only">
+  Чтобы решить это задание откройте <a href="https://stepik.org/lesson/31951/step/14">https://stepik.org/lesson/31951/step/14</a>
+</strong>
+</div>
+<!----></div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Задача на сортировку</div>
+    </div>
+  </div>
+        2.3
+        Построение игрофицированной системы
+        —
+<a id="ember4725" href="/lesson/Построение-игрофицированной-системы-31951/step/14?unit=12051" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 14
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4727" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4728" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4729" href="/users/23719550" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/0aa3567a2a99a9a7d56a4b354757d631?d=https%3A//stepik.org/users/23719550/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4730">Окасана Одариченко</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T13:13:37" title="воскресенье, 11 декабря 2016 г., 13:13 (UTC+03:00)">21 минуту назад</time>
+
+<!---->
+<a id="ember4731" href="/lesson/Бихевиоризм-и-внешняя-мотивация-31954/step/12?discussion=309225&amp;unit=12054" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4732" title="негативный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4733" class="ember-view svg-icon ton_negative_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#90D" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><path fill="none" stroke="#90D" stroke-miterlimit="10" d="M7 14c2.2-2.2 5.8-2.2 8 0"></path><circle fill="#90D" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#90D" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#90D" stroke-miterlimit="10" d="M9 9L5 5M13 9l4-4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4734" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4735">
+  <span id="ember4736" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4737" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4738" class="ember-view">
+<div id="ember4739" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4740" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4741" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4742" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Искра - продавец в магазине нахваливает клиент, делает ему комплименты о его фигуре - не устоишь - купишь</p><p>Фасилитатор - &nbsp;на&nbsp;
+
+aliexpress.com у разных продавцов разные условия, упрощает задачу вариант доставка по РФ бесплатно</p><p>Сигналы - смс оповещения от магазинов о новых поступлениях и скидках</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4743">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4744" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5281" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5290" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5291" class="ember-view step-text-wrapper"><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><h1>Поведенческая модель Фогга<br></h1><p>Профессор <a href="http://en.wikipedia.org/wiki/B._J._Fogg" rel="nofollow">B. J. Fogg</a> из Стэнфордского университета разработал модель, которую обычно называют <a title="Link: http://community.lithium.com/t5/Science-of-Social-blog/The-Magic-Potion-of-Game-Dynamics/ba-p/19260" href="http://community.lithium.com/t5/Science-of-Social-blog/The-Magic-Potion-of-Game-Dynamics/ba-p/19260" rel="nofollow">моделью
+Фогга</a>. <a href="http://www.igraem.com/2014/01/blog-post_21.html ">Здесь</a> можно найти вариант перевода этой статьи. Формула этой модели: 
+B
+= МАТ, где<br></p>
+
+<p>B – поведение
+(behavior),<img alt="" title="Image: https://ucarecdn.com/5395baa2-9236-4bfd-b587-80fc000b5e7c/" class="wysiwyg-float-right" src="https://ucarecdn.com/5395baa2-9236-4bfd-b587-80fc000b5e7c/" width="599" height="449"></p>
+
+<p>M - мотивация
+(motivation), </p>
+
+<p>A – способность
+совершить действие, возможность (ability), </p>
+
+<p>T  - переключатель, триггер (trigger). </p>
+
+<p>Если имеются в наличии
+все эти три составляющих (MAT),
+то, скорее всего,&nbsp; люди совершат действие. </p>
+
+
+
+<p><b>Мотивация </b>– то, что вы
+хотите сделать. Чем выше желание, тем выше вероятность выполнения действия.</p>
+
+<p><b>Возможность </b>– чем проще
+что-то сделать, тем выше вероятность успешного выполнения.</p><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p>Любое действие можно
+поместить на этом графике. Например, если у вас есть сильное желание полететь
+в космос, то ваша отметка, скорее всего, находится в верхнем левом углу, т.к. не
+очень велики возможности. <br></p><p>Вы, скорее всего, легко можете теребить мочку уха каждые
+десять минут, но ваша мотивация к этому вряд ли очень велика, и поэтому можно отметить
+это действие в правой нижней части графика. </p>
+
+<p>Для совершения любых
+действий ниже и левее&nbsp; красной линии триггеры будут работать очень слабо. Чем выше и
+правее можно отметить ваше действие, тем проще вас к этому сподвигнуть. </p>
+
+<p>При проектировании игрофицированных
+систем важно думать о том, какой уровень мотивации и какие возможности есть у
+игроков. Причем здесь важно отметить, что речь идет о субъективной способности,
+которой игрок обладает по его собственному мнению. </p>
+
+<p><b>Триггер </b>– это то, что
+заставляет игрока в определенный момент совершить действие на основе уровня
+мотивации и возможностей. Важно дать триггер в нужный момент, когда игрок
+готов и способен совершить действие. </p>
+
+<p>Есть три типа триггеров:
+</p>
+
+<p>– Искра (Spark) - увеличивает
+мотивацию </p>
+
+<p>–"Упрощатель"/Фасилитатор (Facilitator). Эти триггеры 
+увеличивают
+субъективную способность и
+
+упрощают задачу в восприятии игрока. Тем самым они побуждают его
+к действиям </p>
+
+<p>– Сигналы (Signals) - когда
+мотивация и способность достаточно высоки – просто напоминания</p><p>Подробно о модели Фогга можно почитать в <a title="Link: http://www.bjfogg.com/fbm_files/page4_1.pdf " href="http://www.bjfogg.com/fbm_files/page4_1.pdf ">его статье</a>. <b>Кстати, будем очень признательны, если возьмётесь её перевести! </b>За основу можно взять <a href="http://lpgenerator.ru/blog/2015/11/15/kak-ispolzovat-povedencheskuyu-model-frogga-v-dizajne-lendinga/ ">этот перевод</a>.<b></b><br></p><b>
+
+
+
+
+
+Напишите примеры разных триггеров (лучше - с описанием ситуации, в которой они применялись)
+<b>в комментариях </b>
+
+</b><br><p></p>
+
+
+
+
+
+<br><p></p><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        3.1
+        Бихевиоризм и внешняя мотивация
+        —
+<a id="ember4745" href="/lesson/Бихевиоризм-и-внешняя-мотивация-31954/step/12?unit=12054" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 12
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4747" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4748" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4749" href="/users/180442" class="ember-view ember-link ember-link">      <img src="https://stepik.org/media/users/avatar/180442?1481286617" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4750">Valentin Moskvin</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T13:06:19" title="воскресенье, 11 декабря 2016 г., 13:06 (UTC+03:00)">28 минут назад</time>
+
+<!---->
+<a id="ember4751" href="/lesson/Выбор-пути-героя-31953/step/4?discussion=309221&amp;unit=12053" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4752" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4753" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4754" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4755">
+  <span id="ember4756" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4757" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4758" class="ember-view">
+<div id="ember4759" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4760" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4761" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4762" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Советую пройти путь героя в IT, тех кто разочаровался в рецензиях по образованию. В IT мне люди более чуткие и снисходительные попались, чем в образовании)</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4763">
+    Ответить
+  </button>
+    <button class="comment-widget__show-replies st-button-link" title="показать / скрыть ответы к комментарию" data-ember-action="4764">
+        Посмотреть ответы
+        <span class="comment-widget__replies-counter">
+          (1<!---->)
+        </span>
+    </button>
+
+
+    <div class="comment-widget__target">
+<div id="ember4765" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5296" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5297" class="ember-view quiz-show step-view"><div id="ember5298" class="ember-view quiz-layout-head"><div class="step-wrapper">
+  <div class="step-inner">
+    <div id="ember5299" class="ember-view step-text-wrapper">
+<p><img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/" title="Image: https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">
+
+
+<img class="wysiwyg-float-left" alt="" src="https://ucarecdn.com/d889a2f6-8e9a-4030-9f0e-281583958d2d/">&nbsp;</p><p><b></b></p>
+<p><b>Игрофикация в образовании (варианты А и Б)<br></b></p><p><b>Описание проекта</b></p><p>Крупный государственный ВУЗ имеет хороший штат преподавателей. Конкурс на поступление довольно высокий, многие выпускники становятся первоклассными специалистами и востребованными экспертами в своей области.</p><div><br></div><p><b>В чем проблема</b></p><p>Многие студенты почти не занимаются самостоятельно в течение семестра. Лишь непосредственно перед сессией они начинают всё усиленно изучать практически круглосуточно. Полученные таким образом знания очень быстро "выветриваются". Более того, если какая-то тема в этот период интенсивной зубрёжки заинтересует студента, то он не может выделить время на её подробное изучение. В результате, вместо того, чтобы проявить свои таланты и способности, студенты просто выучивают материал и сдают экзамены.</p><div><br></div><p><b>Имеющиеся возможности</b></p><p>Попытки внедрить регулярные контрольные и тесты не увенчались успехом, поскольку подход и отношение студентов к учёбе не изменились. У ректора есть практически любые возможности в рамках ВУЗа, а у преподавателей в рамках своих предметов. Ограничение: решение не должно быть завязано на деньги (дополнительные стипендии и т.п), а также не должно противоречить закону об образовании.</p><div><br></div><p><b>Задача</b></p><p><b></b></p>
+<b>Вариант А</b>. Разработать систему игрофикации для отдельного предмета, с 
+помощью которой в течение семестра студенты будут регулярно выполнять 
+задания и проходить материал. <br> <br><b>Вариант Б</b>. Разработать систему 
+игрофикации для внедрения в ВУЗе, с помощью которой в течение семестра 
+студенты будут регулярно уделять внимание предметам, которые они 
+проходят.
+
+<p></p><div><br></div>При отправке решения обязательно укажите вариант (А или Б), для которого вы разрабатываете решение. 
+
+<p></p>
+
+<!----><!----></div>
+  </div>
+</div>
+
+<strong class="quiz-layout-head__print-notify print-only">
+  Чтобы решить это задание откройте <a href="https://stepik.org/lesson/31953/step/4">https://stepik.org/lesson/31953/step/4</a>
+</strong>
+</div>
+<!----></div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Свободный ответ</div>
+    </div>
+  </div>
+        2.5
+        Выбор пути героя
+        —
+<a id="ember4766" href="/lesson/Выбор-пути-героя-31953/step/4?unit=12053" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 4
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4768" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4769" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4770" href="/users/24926756" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/89638e67b0cf72b6556fa9d7e77693d0?d=https%3A//stepik.org/users/24926756/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4771">Ирина Салькова</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T13:00:23" title="воскресенье, 11 декабря 2016 г., 13:00 (UTC+03:00)">34 минуты назад</time>
+
+<!---->
+<a id="ember4772" href="/lesson/Пирамида-элементов-31950/step/6?discussion=309216&amp;unit=12050" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4773" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4774" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4775" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4776">
+  <span id="ember4777" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4778" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4779" class="ember-view">
+<div id="ember4780" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4781" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4782" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4783" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>1. Каждая шестая чашка кофе бесплатно.</p><p>2. Бонусы на кату покупателя для оплаты следующей покупки</p><p>3. В семейном лагере на берегу моря дети получали баллы за выполнение работ по хозяйству (полезных), а в конце на ярмарке покупали сладости и сувениры на эти баллы. Проблем с дровами и посудой не было.</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4784">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4785" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5304" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5305" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5306" class="ember-view step-text-wrapper"><b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Какие ещё примеры
+применения игровых элементов вы знаете? Напишите в комментариях
+
+
+
+</b><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        2.2
+        Пирамида элементов
+        —
+<a id="ember4786" href="/lesson/Пирамида-элементов-31950/step/6?unit=12050" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 6
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4788" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4789" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4790" href="/users/23719550" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/0aa3567a2a99a9a7d56a4b354757d631?d=https%3A//stepik.org/users/23719550/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4791">Окасана Одариченко</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:50:41" title="воскресенье, 11 декабря 2016 г., 12:50 (UTC+03:00)">44 минуты назад</time>
+
+<!---->
+<a id="ember4792" href="/lesson/Бихевиоризм-и-внешняя-мотивация-31954/step/11?discussion=309212&amp;unit=12054" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4793" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4794" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4795" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4796">
+  <span id="ember4797" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4798" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4799" class="ember-view">
+<div id="ember4800" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4801" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4802" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4803" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>
+
+Старайтесь заменять частицу «не» в установках на позитивный вариант. Это достаточно просто и очень эффективно. Стоит некоторое время потренироваться — и позитивные формулировки начнут у вас получаться «сами собой». Например, можно написать на табличке "Не &nbsp;ходить по газонам", а можно "Спасибо, что боритесь с желанием пройтись по газонам"<br></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4804">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4805" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5309" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5310" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5311" class="ember-view step-text-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Есть и другие примеры применения позитивной мотивации там,
+где раньше были только штрафы. Например, для того, чтобы предприниматели чаще
+выдавали чеки, для населения проводится лотерея по кассовым чекам. Как это
+работает можно посмотреть <a href="https://www.youtube.com/watch?v=cI4XOJxnIko" rel="nofollow">здесь</a>
+или <a href="https://www.youtube.com/watch?v=fkBa4NF_83s" rel="nofollow">здесь</a>. </p>
+
+<p><b>Если вы знаете
+какие-то другие примеры эффективной замены негативной мотивации на позитивную,
+напишите об этом в комментариях. </b></p>
+
+
+
+
+
+<!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        3.1
+        Бихевиоризм и внешняя мотивация
+        —
+<a id="ember4806" href="/lesson/Бихевиоризм-и-внешняя-мотивация-31954/step/11?unit=12054" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 11
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4808" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4809" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4810" href="/users/24958889" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/e670602592c7912c57056d74a90d13fe?d=https%3A//stepik.org/users/24958889/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4811">Антон Лобанов</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:47:34" title="воскресенье, 11 декабря 2016 г., 12:47 (UTC+03:00)">час назад</time>
+
+<!---->
+<a id="ember4812" href="/lesson/Знакомство-с-платформой-31942/step/6?discussion=309211&amp;unit=12042" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4813" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4814" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4815" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4816">
+  <span id="ember4817" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4818" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4819" class="ember-view">
+<div id="ember4820" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4821" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4822" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4823" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Н<span>ам в школе об этом рассказали</span></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4824">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4825" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5316" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5317" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5318" class="ember-view step-text-wrapper"><div class="wysiwyg-text-align-left"><h2></h2><h2><span class="wysiwyg-color-green">Комментарии</span></h2><p>У каждого шага есть область комментариев. Вы можете прочитать, что другие пользователи пишут об уроке ниже на странице.&nbsp;<br></p><p class="wysiwyg-text-align-left">В комментариях можно и нужно задавать вопросы по материалам и заданиям курса, а также помогать другим. Но, пожалуйста, не выкладывайте туда решения заданий и окончательный ответ.</p><p class="wysiwyg-text-align-left">Обратите внимание на выкидной список справа снизу, где сейчас написано "новые обсуждения". С его помощью вы можете сортировать комментарии в зависимости от своих потребностей и предпочтений.<br></p><p class="wysiwyg-text-align-left">Вы также можете прямо сейчас оставить внизу, под этим шагом, свой комментарий. <br></p><p class="wysiwyg-text-align-left"><b>Напишите о том, где вы узнали про этот курс и почему хотите его изучать.</b></p>
+
+<br></div><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        1.1
+        Знакомство с платформой
+        —
+<a id="ember4826" href="/lesson/Знакомство-с-платформой-31942/step/6?unit=12042" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 6
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4828" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4829" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4830" href="/users/16747871" class="ember-view ember-link ember-link">      <img src="https://stepik.org/media/users/avatar/16747871?1481450000" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4831">Мария Зайцева</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:31:11" title="воскресенье, 11 декабря 2016 г., 12:31 (UTC+03:00)">час назад</time>
+
+<!---->
+<a id="ember4832" href="/lesson/Игрофикация-для-повышения-личной-эффективности-31948/step/10?discussion=309195&amp;unit=12048" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4833" title="позитивный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4834" class="ember-view svg-icon ton_positive_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#6c6" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><path fill="none" stroke="#6c6" stroke-miterlimit="10" d="M15 13c-2.2 2.2-5.8 2.2-8 0"></path><circle fill="#6c6" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#6c6" cx="15.5" cy="9.5" r="2.5"></circle></svg>
+</span>
+</span>
+
+  <div id="ember4835" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4836">
+  <span id="ember4837" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4838" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4839" class="ember-view">
+<div id="ember4840" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4841" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4842" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4843" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Сначала сомневалась, проходить ли курс или нет. Думала будет что-то скучное и неинтересное. Как же я ошибалась!:) Втянулась, сразу перехожу на второй модуль.</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4844">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4845" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5323" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5324" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5325" class="ember-view step-text-wrapper">Основные итоги первой секции Музея игрофикации вы можете <a href="/media/attachments/course/384/Итоги первого модуля.pdf " title="Link: https://stepic.org/media/attachments/course/384/Итоги первого модуля.pdf ">посмотреть здесь</a>.<br>С определениями и персонами из первой секции Музея Игрофикации вы можете встретиться ещё раз <a href="/media/attachments/course/384/Определения и персоны первой секции Музея Игрофикации.pdf ">здесь</a>.<br>А <a href="https://stepik.org/media/attachments/course/1232/Интерактивная карта первой секции Музея Игрофикации.pdf ">здесь </a>вы найдёте карту всех залов первой секции Музея Игрофикации. Кстати, карта интерактивная!<br>&nbsp;<br><b>Напишите, пожалуйста, в комментариях о своих впечатлениях от посещения первой секции Музея Игрофикации</b><br><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        1.7
+        Игрофикация для повышения личной эффективности
+        —
+<a id="ember4846" href="/lesson/Игрофикация-для-повышения-личной-эффективности-31948/step/10?unit=12048" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 10
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4848" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4849" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4850" href="/users/23719550" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/0aa3567a2a99a9a7d56a4b354757d631?d=https%3A//stepik.org/users/23719550/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4851">Окасана Одариченко</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:18:33" title="воскресенье, 11 декабря 2016 г., 12:18 (UTC+03:00)">час назад</time>
+
+<!---->
+<a id="ember4852" href="/lesson/Бихевиоризм-и-внешняя-мотивация-31954/step/7?discussion=309180&amp;unit=12054" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4853" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4854" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4855" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4856">
+  <span id="ember4857" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4858" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4859" class="ember-view">
+<div id="ember4860" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4861" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4862" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4863" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p><b>﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</b></p><p><b><em>Нематериальные стимулы внешней мотивации - это официальное
+признание различных заслуг. Например, </em><em>награждение
+почетными гра­мотами, значками, медалями, помещением на доску почета; объяв­ление
+благодарности, вручение подарков «за заслуги», присвоение</em><i>&nbsp;</i><em>званий: почетного работника, ветерана
+предприятия, передовика</em><i>&nbsp;</i><em>в
+какой-либо профессии или в типе поведения (активность,</em><i>&nbsp;</i><em>новаторство, преданность)</em></b></p><p></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4864">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4865" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5328" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5329" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5330" class="ember-view step-text-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</b></p><h1>Внешняя мотивация (SAPS)<br></h1><p>Гейб Зикерманн
+предложил выделять четыре типа внешней мотивации игроков при их взаимодействии
+с игрофицированными системами:<b></b></p><b>
+
+
+
+
+
+</b><p></p><p><b>Статус</b>
+(Status) – это те уровни или ранги, к которым стремятся игроки. Для большинства игроков это
+самый эффективный инструмент из арсенала внешней мотивации. В целом можно
+сказать, что это инструмент, предназначенный для того, чтобы показать ценность
+конкретного игрока для общества. Например, игроки будут готовы пройти весьма
+сложный квест и потратить на него много времени ради продвижения на работе. Также
+с помощью этого инструмента можно увеличить, например, лояльность игроков,
+доход компании или виральность.</p>
+
+<p><b></b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p><b>Доступ</b>
+(Access) – это то, что позволяет части ваших игроков взаимодействовать с вашей
+компанией, товаром или услугой на новом уровне по сравнению со всеми остальными
+игроками. Например, это может быть какой-то скрытый контент или доступ к
+эксклюзивному конкурсу. </p>
+
+
+
+
+
+<p></p>
+
+<p><b>Власть</b>
+(Power) – это когда мы даём некоторым игрокам права воздействовать на других игроков,
+показать им своё превосходство. Например, игрок, достигший высокого уровня,
+может помочь другим игрокам на их Пути игрока. Он может давать им какие-то
+преимущества, к которым у него свободный доступ благодаря его высокому уровню. Также
+это может быть, например, предоставление игроку возможностей модерирования и
+редактирования контента. Это всегда возможность сыграть более активную роль в
+жизни общества.</p>
+
+<p><b>Награды,
+призы, плюшки…</b> (Stuff) - что-то материальное, что даётся игрокам
+за выполнение заданий. Это наименее мотивирующий из 4-х типов внешней
+мотивации, и при этом, обычно, самый дорогой.</p>
+
+
+
+
+
+<img src="https://ucarecdn.com/c6ba7e62-fd49-40e6-9da7-fb8a24ad65c3/" title="Image: https://ucarecdn.com/c6ba7e62-fd49-40e6-9da7-fb8a24ad65c3/" alt=""><br>Конечно, многие (если не все) примеры применения внешней мотивации - это комбинация предложенных Зикерманном типов мотивации. Например, возможность пообедать с Самым Главным Шефом, выдаваемую в качестве привилегии, можно рассматривать как Статус, Власть, Доступ и Приз одновременно. Какие типы мотивации преобладают в каждом конкретном случае, зависит от ситуации, а также от типа игрока (игроки - тема следующей секции Музея). <br><br>Конкретный инструмент игрофикации также может использоваться для удовлетворения нескольких типов внешней мотивации. Например, бейдж может быть Наградой, символом Доступа к чему-то, атрибутом Власти или Статуса.<br><b><br>Напишите в комментариях, если знаете и другие типы внешней мотивации, выходящие за границы классификации, предложенной Зикерманном. &nbsp; <br>Если знаете какие-то интересные примеры совмещения перечисленных типов внешней мотивации, напишите и об этом тоже. <br></b><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        3.1
+        Бихевиоризм и внешняя мотивация
+        —
+<a id="ember4866" href="/lesson/Бихевиоризм-и-внешняя-мотивация-31954/step/7?unit=12054" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 7
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4868" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4869" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4870" href="/users/3922096" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/1d28a6a15679f8591a9b4dc4d2d754e3?d=https%3A//stepik.org/users/3922096/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4871">Борис Покровский</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:05:01" title="воскресенье, 11 декабря 2016 г., 12:05 (UTC+03:00)">час назад</time>
+
+<!---->
+<a id="ember4872" href="/lesson/Выбор-пути-героя-31953/step/11?discussion=309173&amp;unit=12053" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4873" title="позитивный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4874" class="ember-view svg-icon ton_positive_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#6c6" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><path fill="none" stroke="#6c6" stroke-miterlimit="10" d="M15 13c-2.2 2.2-5.8 2.2-8 0"></path><circle fill="#6c6" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#6c6" cx="15.5" cy="9.5" r="2.5"></circle></svg>
+</span>
+</span>
+
+  <div id="ember4875" class="comment-widget__votes ember-view vote-widget vote-widget_target_liked"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4876">
+  <span id="ember4877" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  1
+</span><!----></div>
+
+  <span id="ember4878" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4879" class="ember-view">
+<div id="ember4880" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4881" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4882" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4883" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Спасибо </p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4884">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4885" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5333" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5334" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5335" class="ember-view step-text-wrapper">
+Основные итоги второй секции Музея игрофикации вы можете <a title="Link: https://stepic.org/media/attachments/course/384/Основные итоги 2-й секции Музея Игрофикации.pdf " href="/media/attachments/course/384/Основные итоги 2-й секции Музея Игрофикации.pdf ">посмотреть здесь</a><a href="/media/attachments/course/384/%D0%98%D1%82%D0%BE%D0%B3%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F.pdf" rel="nofollow"></a>. Там же вы можете найти ссылки на сайты персон, упоминавшихся в этой секции Музея.<br>А <a href="https://stepik.org/media/attachments/course/1232/Интерактивная карта 2-й секции Музея Игрофикации.pdf ">здесь </a>вы найдёте карту всех залов второй секции Музея Игрофикации. Ссылки указателей "Вы здесь" в этой карте (как и в карте предыдущей секции Музея) ведут на соответствующие страницы курса.<br>&nbsp;<br><b>Напишите, пожалуйста, в комментариях о своих впечатлениях от посещения второй секции Музея Игрофикации</b>
+
+<br><br><br><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        2.5
+        Выбор пути героя
+        —
+<a id="ember4886" href="/lesson/Выбор-пути-героя-31953/step/11?unit=12053" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 11
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4888" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4889" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4890" href="/users/3922096" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/1d28a6a15679f8591a9b4dc4d2d754e3?d=https%3A//stepik.org/users/3922096/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4891">Борис Покровский</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:04:40" title="воскресенье, 11 декабря 2016 г., 12:04 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember4892" href="/lesson/Выбор-пути-героя-31953/step/11?discussion=309172&amp;unit=12053" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4893" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4894" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4895" class="comment-widget__votes ember-view vote-widget vote-widget_target_liked"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4896">
+  <span id="ember4897" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  1
+</span><!----></div>
+
+  <span id="ember4898" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4899" class="ember-view">
+<div id="ember4900" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4901" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4902" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4903" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p><br></p><p>Рецензирование – хороший инструмент.</p><br><p></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4904">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4905" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5338" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5339" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5340" class="ember-view step-text-wrapper">
+Основные итоги второй секции Музея игрофикации вы можете <a title="Link: https://stepic.org/media/attachments/course/384/Основные итоги 2-й секции Музея Игрофикации.pdf " href="/media/attachments/course/384/Основные итоги 2-й секции Музея Игрофикации.pdf ">посмотреть здесь</a><a href="/media/attachments/course/384/%D0%98%D1%82%D0%BE%D0%B3%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F.pdf" rel="nofollow"></a>. Там же вы можете найти ссылки на сайты персон, упоминавшихся в этой секции Музея.<br>А <a href="https://stepik.org/media/attachments/course/1232/Интерактивная карта 2-й секции Музея Игрофикации.pdf ">здесь </a>вы найдёте карту всех залов второй секции Музея Игрофикации. Ссылки указателей "Вы здесь" в этой карте (как и в карте предыдущей секции Музея) ведут на соответствующие страницы курса.<br>&nbsp;<br><b>Напишите, пожалуйста, в комментариях о своих впечатлениях от посещения второй секции Музея Игрофикации</b>
+
+<br><br><br><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        2.5
+        Выбор пути героя
+        —
+<a id="ember4906" href="/lesson/Выбор-пути-героя-31953/step/11?unit=12053" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 11
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4908" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4909" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4910" href="/users/23755368" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/a0899a33c073f8fac5b7be33c763fa2f?d=https%3A//stepik.org/users/23755368/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4911">Наталья Никулина</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T12:01:31" title="воскресенье, 11 декабря 2016 г., 12:01 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember4912" href="/lesson/Пирамида-элементов-31950/step/6?discussion=309170&amp;unit=12050" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4913" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4914" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4915" class="comment-widget__votes ember-view vote-widget vote-widget_target_liked"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4916">
+  <span id="ember4917" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  1
+</span><!----></div>
+
+  <span id="ember4918" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4919" class="ember-view">
+<div id="ember4920" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4921" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4922" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4923" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Бланк медосмотра составляет список врачей, которых надо пройти, получить в графу печать и подпись. Накопив данные ресурсы, мы получаем заключение. <br></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4924">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember4925" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5343" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5344" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5345" class="ember-view step-text-wrapper"><b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Какие ещё примеры
+применения игровых элементов вы знаете? Напишите в комментариях
+
+
+
+</b><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        2.2
+        Пирамида элементов
+        —
+<a id="ember4926" href="/lesson/Пирамида-элементов-31950/step/6?unit=12050" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 6
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4928" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4929" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4930" href="/users/16230678" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/b1205807dfaff714d7eceec8c885c33d?d=https%3A//stepik.org/users/16230678/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4931">Вадим Маткаримов</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T11:43:49" title="воскресенье, 11 декабря 2016 г., 11:43 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember4932" href="/lesson/Игрофикация-в-социальных-проектах-и-образовании-31946/step/8?discussion=309162&amp;unit=12046" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4933" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4934" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4935" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4936">
+  <span id="ember4937" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4938" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4939" class="ember-view">
+<div id="ember4940" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4941" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4942" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4943" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Есть прекрасная работа ВПССР "Нам нужна другая школа".</p><p>Проблема образования лежит глубже обычной игрофикации, начиная от предельно обобщающих понятий, которые идут ещё с древнего Египта и до сих пор присутствуют в нашей науке. Также образование должно быть раздельным, это обусловлено различным физиологическим развитием мальчиков и девочек. Уже на этом этапе внимание к предмету будет значительно повышено.</p><p>Нюансы с введением шариковой ручки, которая просто блокирует мыслительный процесс, в отличие от перьевой, при правильном использовании которой процесс обучения увеличивается в разы. Неправильное расписание предметов, уменьшение уроков физкультуры или неправильное очередность данного предмета. Уроки по 45 минут, хотя ещё в экспериментах Щетинина было установлено, что лучше по 30. Также желательно обучать предмету с помощью т.н. методики погружения. Отношение к преподавателю не как человеку оказывающему услугу - это уже нравственная составляющая. И это лишь часть проблем.</p><p>Конечно, в нашей стране были и есть преподаватели новаторы, тот же Щетинин или Шаталов, который, кстати применял игрофикацию на своих уроках.</p><p><span>Нужно начинать с понимания процессов управления, как они формируются, почему одни процессы, которые направлены на разрушение и деградацию поддерживаются, а другие, которые позволяют сформировать человека и раскрыть его, нет.</span><br></p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4944">
+    Ответить
+  </button>
+    <button class="comment-widget__show-replies st-button-link" title="показать / скрыть ответы к комментарию" data-ember-action="4945">
+        Посмотреть ответы
+        <span class="comment-widget__replies-counter">
+          (2, ответ преподавателя)
+        </span>
+    </button>
+
+
+    <div class="comment-widget__target">
+<div id="ember4946" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5350" class="ember-view step-show step-show_is_preview step-show_is_video"><div class="step-dynamic-container">
+	  <div id="ember5351" class="ember-view step-view step-view_material step-view_video"><div class="step-wrapper">
+  <div class="step-inner">
+        <img class="video__thumbnail" src="https://i.vimeocdn.com/video/568344173_640x360.jpg?r=pad">
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Видео</div>
+    </div>
+  </div>
+        1.5
+        Игрофикация в социальных проектах и образовании
+        —
+<a id="ember4947" href="/lesson/Игрофикация-в-социальных-проектах-и-образовании-31946/step/8?unit=12046" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 8
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4949" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4950" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4951" href="/users/24926756" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/89638e67b0cf72b6556fa9d7e77693d0?d=https%3A//stepik.org/users/24926756/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4952">Ирина Салькова</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T11:41:54" title="воскресенье, 11 декабря 2016 г., 11:41 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember4953" href="/lesson/Игрофикация-для-повышения-личной-эффективности-31948/step/10?discussion=309160&amp;unit=12048" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4954" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4955" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4956" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4957">
+  <span id="ember4958" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember4959" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4960" class="ember-view">
+<div id="ember4961" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4962" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4963" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4964" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Курс интересный, полезный. В жизни приходилось с ребенком придумывать много раз разные игрофикации. Какие-то были успешны, какие-то нет. Но так всерьез задуматься об этом не приходилось. Буду заниматься дальше.</p><p>Волнует вопрос: если я на каком-то шаге задала вопрос, и мне там написали ответ, как узнать, что там на каком-то шаге мне ответили, если я ушла вперед?</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4965">
+    Ответить
+  </button>
+    <button class="comment-widget__show-replies st-button-link" title="показать / скрыть ответы к комментарию" data-ember-action="4966">
+        Посмотреть ответы
+        <span class="comment-widget__replies-counter">
+          (1, ответ преподавателя)
+        </span>
+    </button>
+
+
+    <div class="comment-widget__target">
+<div id="ember4967" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5354" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5355" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5356" class="ember-view step-text-wrapper">Основные итоги первой секции Музея игрофикации вы можете <a href="/media/attachments/course/384/Итоги первого модуля.pdf " title="Link: https://stepic.org/media/attachments/course/384/Итоги первого модуля.pdf ">посмотреть здесь</a>.<br>С определениями и персонами из первой секции Музея Игрофикации вы можете встретиться ещё раз <a href="/media/attachments/course/384/Определения и персоны первой секции Музея Игрофикации.pdf ">здесь</a>.<br>А <a href="https://stepik.org/media/attachments/course/1232/Интерактивная карта первой секции Музея Игрофикации.pdf ">здесь </a>вы найдёте карту всех залов первой секции Музея Игрофикации. Кстати, карта интерактивная!<br>&nbsp;<br><b>Напишите, пожалуйста, в комментариях о своих впечатлениях от посещения первой секции Музея Игрофикации</b><br><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        1.7
+        Игрофикация для повышения личной эффективности
+        —
+<a id="ember4968" href="/lesson/Игрофикация-для-повышения-личной-эффективности-31948/step/10?unit=12048" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 10
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4970" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4971" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4972" href="/users/17615242" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/f2cd332c5bc165ca556475c3746c2304?d=https%3A//stepik.org/users/17615242/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4973">Перемышлина Ксения</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T11:25:52" title="воскресенье, 11 декабря 2016 г., 11:25 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember4974" href="/lesson/Пирамида-элементов-31950/step/6?discussion=309155&amp;unit=12050" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4975" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4976" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4977" class="comment-widget__votes ember-view vote-widget vote-widget_target_liked"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4978">
+  <span id="ember4979" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  2
+</span><!----></div>
+
+  <span id="ember4980" class="comment-widget__cmenu ember-view comment-menu"><div id="ember4981" class="ember-view">
+<div id="ember4982" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember4983" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember4984" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember4985" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Один художник, на первом занятии для новичков говорил - не выбрасывайте свою первую картину ни в коем случае (там был пейзаж маслом). Смотрите на нее, кладите рядом новые и новые наброски этого сюжета. И сохраняйте. Через год сравните сюжеты. Оцените прогресс.&nbsp;</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="4986">
+    Ответить
+  </button>
+    <button class="comment-widget__show-replies st-button-link" title="показать / скрыть ответы к комментарию" data-ember-action="4987">
+        Посмотреть ответы
+        <span class="comment-widget__replies-counter">
+          (2, ответ преподавателя)
+        </span>
+    </button>
+
+
+    <div class="comment-widget__target">
+<div id="ember4988" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5359" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5360" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5361" class="ember-view step-text-wrapper"><b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Какие ещё примеры
+применения игровых элементов вы знаете? Напишите в комментариях
+
+
+
+</b><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        2.2
+        Пирамида элементов
+        —
+<a id="ember4989" href="/lesson/Пирамида-элементов-31950/step/6?unit=12050" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 6
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember4991" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember4992" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember4993" href="/users/24926756" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/89638e67b0cf72b6556fa9d7e77693d0?d=https%3A//stepik.org/users/24926756/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="4994">Ирина Салькова</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T11:17:21" title="воскресенье, 11 декабря 2016 г., 11:17 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember4995" href="/lesson/Игрофикация-для-повышения-личной-эффективности-31948/step/3?discussion=309152&amp;unit=12048" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember4996" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember4997" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember4998" class="comment-widget__votes ember-view vote-widget vote-widget_target_liked"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="4999">
+  <span id="ember5000" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  2
+</span><!----></div>
+
+  <span id="ember5001" class="comment-widget__cmenu ember-view comment-menu"><div id="ember5002" class="ember-view">
+<div id="ember5003" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember5004" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember5005" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember5006" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Интуитивно можно правильно ответить, опираясь на здравый смысл.</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="5007">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember5008" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5364" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5365" class="ember-view quiz-show step-view"><div id="ember5366" class="ember-view quiz-layout-head"><div class="step-wrapper">
+  <div class="step-inner">
+    <div id="ember5367" class="ember-view step-text-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;
+
+<img class="wysiwyg-float-left" title="Image: https://ucarecdn.com/8d74287f-3105-4a54-8d48-fe799e673737/" alt="" src="https://ucarecdn.com/8d74287f-3105-4a54-8d48-fe799e673737/">
+
+Какие правила нужно
+соблюдать при создании игрофицированных систем для повышения личной
+эффективности? Отметьте, верны или нет эти утверждения</p><p>Кстати, все правильные ответы упоминаются в предыдущем видео <br></p>
+
+
+
+
+
+<!----><!----></div>
+  </div>
+</div>
+
+<strong class="quiz-layout-head__print-notify print-only">
+  Чтобы решить это задание откройте <a href="https://stepik.org/lesson/31948/step/3">https://stepik.org/lesson/31948/step/3</a>
+</strong>
+</div>
+<!----></div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Табличная задача</div>
+    </div>
+  </div>
+        1.7
+        Игрофикация для повышения личной эффективности
+        —
+<a id="ember5009" href="/lesson/Игрофикация-для-повышения-личной-эффективности-31948/step/3?unit=12048" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 3
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember5011" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember5012" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember5013" href="/users/19182561" class="ember-view ember-link ember-link">      <img src="https://gravatar.com/avatar/79fbc47108354fb87a4c85a3172bd762?d=https%3A//stepik.org/users/19182561/avatar.png%3Fs%3D100&amp;s=100" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="5014">Alexander Rumyantsev</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T11:15:00" title="воскресенье, 11 декабря 2016 г., 11:15 (UTC+03:00)">2 часа назад</time>
+
+<!---->
+<a id="ember5015" href="/lesson/Комната-отдыха-и-общения-31956/step/2?discussion=309150&amp;unit=12056" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember5016" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember5017" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember5018" class="comment-widget__votes ember-view vote-widget vote-widget_target_liked"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="5019">
+  <span id="ember5020" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  3
+</span><!----></div>
+
+  <span id="ember5021" class="comment-widget__cmenu ember-view comment-menu"><div id="ember5022" class="ember-view">
+<div id="ember5023" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember5024" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember5025" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember5026" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p><b>Рекомендация:</b>&nbsp;дать возможность оценивать рецензию, &nbsp;тоже анонимно, и будет отложенная награда рецензенту, чтобы был &nbsp;вознагражден. Возможность праведного гнева для автора. И &nbsp;конечно, давать посмотреть его работу, чтобы понимать, а стоит ли грустить.<br></p><p>Дополнительно, проверка комментария на копи-паст &nbsp; из инструкции, &nbsp; тоже сразу проявит такого. &nbsp;Только об этом нельзя&nbsp;предупреждать, &nbsp;чтобы не добавил соли.</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="5027">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember5028" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5372" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5373" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5374" class="ember-view step-text-wrapper">
+<b>Игрофикация на платформе Stepik</b><b><br><br></b>Наш курс, как вы могли заметить, довольно экспериментальный, и мы постарались задействовать возможности платформы Stepik по максимуму, чтобы реализовать свои идеи по игрофикации курса. В том числе мы осуществили ряд идей, которые изначально казались нереальными (выбор Пути игрока и т.д.). Это стало возможным благодаря тому, что платформа активно идет навстречу инновациям и воплощает интересные решения в жизнь. <br><br>
+Здесь вы можете написать свои предложения по игрофикации самой платформы Stepik. <br><br>
+Вполне вероятно, что наиболее интересные идеи будут претворены в жизнь (как это уже случилось с некоторыми идеями, высказанными в рамках первой версии курса). 
+Не все ваши идеи можно будет внедрить (во всяком случае, сразу) - надо 
+помнить о технических ограничениях.
+
+
+
+<br><br>Также можно вносить предложения по адаптации платформы к игрофицированным курсам, вроде нашего<b>.</b> Например, мы уже неоднократно встречались с комментариями насчет того, что кристаллы (знаний, опыта, инициативы) было бы здорово иметь возможность именно "получить" и видеть в своем "профиле" и т.д. - как это обычно происходит в играх. Нам бы тоже этого очень хотелось, но пока это невозможно чисто с технической точки зрения. Быть может, если с вашей стороны будет достаточно поддержки подобным идеям, и Stepik увидит в этом перспективу, уже в скором времени это может стать реальностью!&nbsp; <br><!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        3.3
+        Комната отдыха и общения
+        —
+<a id="ember5029" href="/lesson/Комната-отдыха-и-общения-31956/step/2?unit=12056" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 2
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+        <div id="ember5031" class="ember-view comment-widget discussion_replies_hidden"><div class="comment-widget__header">
+  <span id="ember5032" class="comment-widget__avatar ember-view user-avatar comment-widget__avatar"><a id="ember5033" href="/users/16747871" class="ember-view ember-link ember-link">      <img src="https://stepik.org/media/users/avatar/16747871?1481450000" class="user-avatar__img_shape_square" width="35" height="35">
+<!---->
+</a></span>
+
+  <div class="comment-widget__author" title="добавить упоминание" data-ember-action="5034">Мария Зайцева</div>
+
+<!---->
+<!---->
+<!---->
+  <time class="comment-widget__date" datetime="2016-12-11T11:01:56" title="воскресенье, 11 декабря 2016 г., 11:01 (UTC+03:00)">3 часа назад</time>
+
+<!---->
+<a id="ember5035" href="/lesson/Игрофикация-в-социальных-проектах-и-образовании-31946/step/3?discussion=309144&amp;unit=12046" title="ссылка на это обсуждение" class="comment-widget__link ember-view ember-link ember-link comment-widget__link">      ссылка
+</a>
+
+<!---->
+    <span id="ember5036" title="нейтральный комментарий" class="comment-widget__tonality ember-view tonality-button comment-widget__tonality"><span id="ember5037" class="ember-view svg-icon ton_neutral_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><circle fill="none" stroke="#06f" stroke-miterlimit="10" cx="11" cy="11" r="10"></circle><circle fill="#06f" cx="6.5" cy="9.5" r="2.5"></circle><circle fill="#06f" cx="15.5" cy="9.5" r="2.5"></circle><path fill="none" stroke="#06f" stroke-miterlimit="10" d="M9 14.5h4"></path></svg>
+</span>
+</span>
+
+  <div id="ember5038" class="comment-widget__votes ember-view vote-widget"><!----><span class="vote-widget__segment vote-widget__segment_type_button vote-widget__segment_type_epic" title="Одобряю!" data-ember-action="5039">
+  <span id="ember5040" class="vote-widget__epic-icon ember-view svg-icon thumbs_up_icon">  <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M2 42h8V18H2v24zm44-22c0-2.21-1.79-4-4-4H29.37l1.91-9.14c.04-.2.07-.41.07-.63 0-.83-.34-1.58-.88-2.12L28.34 2 15.17 15.17C14.45 15.9 14 16.9 14 18v20c0 2.21 1.79 4 4 4h18c1.66 0 3.08-1.01 3.68-2.44l6.03-14.1A4 4 0 0 0 46 24v-3.83l-.02-.02L46 20z"></path></svg>
+</span>
+  0
+</span><!----></div>
+
+  <span id="ember5041" class="comment-widget__cmenu ember-view comment-menu"><div id="ember5042" class="ember-view">
+<div id="ember5043" role="button" data-menu-toggler="true" class="menu-icon ember-view button st-button_style_none">        <span id="ember5044" class="ember-view svg-icon down_arrow_icon">  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="-0.475 -0.477 24 16"><path fill="none" stroke="currentcolor" stroke-width="4" stroke-miterlimit="10" d="M1.525 1.523l10 10 10-10"></path></svg>
+</span>
+
+</div>
+<div id="ember5045" class="ember-view"><!----></div>
+</div></span>
+</div>
+<!---->  <div id="ember5046" class="comment-widget__body step-text-wrapper ember-view comment-widget__body step-text-wrapper"><p>Игрофикация была бы полезна при учёте достижений на спортивных тренировках. Что-то вроде дневника тренировок. К этому ещё можно добавить (как бонусы) учёт правильности питания (сбалансированная еда, отсутствие пропусков еды, достаточное количество жидкости, отсутствие вредной еды, фаст-фуда).</p>
+</div>
+
+<!---->
+<div class="comment-widget__footer">
+  <button class="comment-widget__reply st-button-link" title="ответить на этот комментарий" data-ember-action="5047">
+    Ответить
+  </button>
+<!---->
+
+    <div class="comment-widget__target">
+<div id="ember5048" class="ember-view step-preview">  <div class="step-preview-comment step-preview__popup step-preview__popup-visible">
+    <div id="ember5377" class="ember-view step-show step-show_is_preview"><div class="step-dynamic-container">
+	  <div id="ember5378" class="ember-view step-view step-view_material"><div class="step-wrapper">
+  <div class="step-inner">
+      <div id="ember5379" class="ember-view step-text-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Как
+вы считаете, в каких ещё социальных проектах было бы полезно применить методы
+игрофикации? <br></p><p>Знаете ли вы другие примеры применения игрофикации в социальных
+проектах?</p>
+
+
+
+
+
+<!----><!----></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+    <div class="step-preview__caption">
+      <div class="step-preview__type">Текст</div>
+    </div>
+  </div>
+        1.5
+        Игрофикация в социальных проектах и образовании
+        —
+<a id="ember5049" href="/lesson/Игрофикация-в-социальных-проектах-и-образовании-31946/step/3?unit=12046" class="comment-widget__target-link ember-view ember-link ember-link comment-widget__target-link">            Шаг 3
+</a>
+</div>    </div>
+</div>
+
+<div class="comment-widget__replies">
+<!----></div>
+</div>
+
+          <button class="discussions__load-btn small grey expand" data-ember-action="5050">Показать обсуждения</button>
+
+</div>
+</div>
+
+    </div>
+  
